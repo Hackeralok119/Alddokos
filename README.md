@@ -2,7 +2,7 @@
  
 # 🚀 AlokDdos: Release v1.5 - Free DDoS Panel 🚀
 
-# Store: https://condi.billgang.store/
+# Store: https://Telegram.me/Hackeralokrenew
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
