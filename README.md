@@ -64,7 +64,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 git clone https://github.com/Hackeralok119/Alddokos
-cd ZxCDDoS/
+cd Alddokos/
 npm i requests https-proxy-agent crypto-random-string events fs net cloudscraper request hcaptcha-solver randomstring cluster cloudflare-bypasser http http2 crypto tls
 pip3 install -r requirements.txt
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
