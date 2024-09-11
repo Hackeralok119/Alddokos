@@ -14,7 +14,7 @@
 > Terminal only accepts ANSI color.<br>
 > Username: alok<br>
 > Password: alok<br>
-<p align="center">  <a href="https://t.me/HackeralokId"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<p align="center">  <a href="https://telegram.me/HackeralokId"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
