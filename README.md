@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.5 - Free DDoS Panel 🚀
+# 🚀 AlokDdos: Release v1.5 - Free DDoS Panel 🚀
 
 # Store: https://condi.billgang.store/
 
@@ -12,9 +12,9 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+> Username: alok<br>
+> Password: alok<br>
+<p align="center">  <a href="https://t.me/HackeralokId"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
@@ -63,7 +63,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
+git clone https://github.com/Hackeralok119/Alddokos
 cd ZxCDDoS/
 npm i requests https-proxy-agent crypto-random-string events fs net cloudscraper request hcaptcha-solver randomstring cluster cloudflare-bypasser http http2 crypto tls
 pip3 install -r requirements.txt
@@ -76,11 +76,11 @@ python3 c2.py
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
+Hackeralok (Reworked CnC and added some methods .-.)
+SocialHackingLearnBot (Example Panel and L7 methods <3)
+BLACKGIVEAWAYSBOT (Layer 7 methods <3)
+Rdpfreebot (Layer 7 methods <3)
+HackeralokRenew (Layer 4 and AMP methods <3)
 R00tS3C (Layer 4 and AMP methods <3)
 forkyyy (LAYER 7 METHODS <3)
 Leeon123 (SPECIAL METHODS <3)
@@ -96,6 +96,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Telegram: @GrayHacker_Bot
+Instagram:@Hackeralok2.0 
 ```
