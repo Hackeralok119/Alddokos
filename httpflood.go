@@ -1,5 +1,5 @@
 /*
-Coded by LeeOn123
+Coded by HackerAlok2.0
 Please fking code ur script by ur self, kid.
 
 I changed the random integers range to the max of int32.
